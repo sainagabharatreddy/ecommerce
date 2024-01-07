@@ -2393,6 +2393,23 @@
         }
       ],
       "id": 2
+    },
+    {
+      "email": "katikenisatyasai@gmail.com",
+      "password": "Satya@2003",
+      "addresses": [
+        {
+          "name": "sainagabharat bonthu",
+          "phone": "09573132481",
+          "email": "sainagabharatreddy@gmail.com",
+          "country": "India",
+          "address": "guntur",
+          "city": "guntur",
+          "state": "pakistan",
+          "pincode": "637626"
+        }
+      ],
+      "id": 3
     }
   ],
   "cart": [
@@ -2474,7 +2491,7 @@
         "https://i.dummyjson.com/data/products/2/3.jpg",
         "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
       ],
-      "quantity": 1,
+      "quantity": 2,
       "user": 1,
       "id": 14
     },
@@ -2518,6 +2535,47 @@
       "quantity": 1,
       "user": 1,
       "id": 16
+    },
+    {
+      "title": "NIGHT SUIT",
+      "description": "NIGHT SUIT RED MICKY MOUSE..  For Girls. Fantastic Suits.",
+      "price": 55,
+      "discountPercentage": 15.05,
+      "rating": 4.65,
+      "stock": 21,
+      "brand": "RED MICKY MOUSE..",
+      "category": "womens-dresses",
+      "thumbnail": "https://i.dummyjson.com/data/products/41/thumbnail.webp",
+      "images": [
+        "https://i.dummyjson.com/data/products/41/1.jpg",
+        "https://i.dummyjson.com/data/products/41/2.webp",
+        "https://i.dummyjson.com/data/products/41/3.jpg",
+        "https://i.dummyjson.com/data/products/41/4.jpg",
+        "https://i.dummyjson.com/data/products/41/thumbnail.webp"
+      ],
+      "quantity": 5,
+      "user": 3,
+      "id": 18
+    },
+    {
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/2/1.jpg",
+        "https://i.dummyjson.com/data/products/2/2.jpg",
+        "https://i.dummyjson.com/data/products/2/3.jpg",
+        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+      ],
+      "quantity": 1,
+      "user": 1,
+      "id": 19
     }
   ],
   "orders": [
@@ -3253,6 +3311,277 @@
       },
       "status": "pending",
       "id": 9
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 1,
+          "id": 14
+        },
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 1,
+          "id": 15
+        },
+        {
+          "title": "Oil Free Moisturizer 100ml",
+          "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+          "price": 40,
+          "discountPercentage": 13.1,
+          "rating": 4.56,
+          "stock": 88,
+          "brand": "Dermive",
+          "category": "skincare",
+          "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/18/1.jpg",
+            "https://i.dummyjson.com/data/products/18/2.jpg",
+            "https://i.dummyjson.com/data/products/18/3.jpg",
+            "https://i.dummyjson.com/data/products/18/4.jpg",
+            "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 1,
+          "id": 16
+        }
+      ],
+      "totalAmount": 1838,
+      "totalItems": 3,
+      "user": {
+        "email": "sainagabharatreddy@gmail.com",
+        "password": "Bsai12345@",
+        "addresses": [
+          {
+            "name": "sainagabharat bonthu",
+            "phone": "09573132481",
+            "email": "sainagabharatreddy@gmail.com",
+            "country": "India",
+            "address": "guntur",
+            "city": "guntur",
+            "state": "ap",
+            "pincode": "522501"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "sainagabharat bonthu",
+        "phone": "09573132481",
+        "email": "sainagabharatreddy@gmail.com",
+        "country": "India",
+        "address": "guntur",
+        "city": "guntur",
+        "state": "ap",
+        "pincode": "522501"
+      },
+      "status": "pending",
+      "id": 10
+    },
+    {
+      "items": [
+        {
+          "title": "NIGHT SUIT",
+          "description": "NIGHT SUIT RED MICKY MOUSE..  For Girls. Fantastic Suits.",
+          "price": 55,
+          "discountPercentage": 15.05,
+          "rating": 4.65,
+          "stock": 21,
+          "brand": "RED MICKY MOUSE..",
+          "category": "womens-dresses",
+          "thumbnail": "https://i.dummyjson.com/data/products/41/thumbnail.webp",
+          "images": [
+            "https://i.dummyjson.com/data/products/41/1.jpg",
+            "https://i.dummyjson.com/data/products/41/2.webp",
+            "https://i.dummyjson.com/data/products/41/3.jpg",
+            "https://i.dummyjson.com/data/products/41/4.jpg",
+            "https://i.dummyjson.com/data/products/41/thumbnail.webp"
+          ],
+          "quantity": 5,
+          "user": 3,
+          "id": 18
+        }
+      ],
+      "totalAmount": 275,
+      "totalItems": 5,
+      "user": {
+        "email": "katikenisatyasai@gmail.com",
+        "password": "Satya@2003",
+        "addresses": [
+          {
+            "name": "sainagabharat bonthu",
+            "phone": "09573132481",
+            "email": "sainagabharatreddy@gmail.com",
+            "country": "India",
+            "address": "guntur",
+            "city": "guntur",
+            "state": "pakistan",
+            "pincode": "637626"
+          }
+        ],
+        "id": 3
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "sainagabharat bonthu",
+        "phone": "09573132481",
+        "email": "sainagabharatreddy@gmail.com",
+        "country": "India",
+        "address": "guntur",
+        "city": "guntur",
+        "state": "pakistan",
+        "pincode": "637626"
+      },
+      "status": "pending",
+      "id": 11
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 14
+        },
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 1,
+          "id": 15
+        },
+        {
+          "title": "Oil Free Moisturizer 100ml",
+          "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+          "price": 40,
+          "discountPercentage": 13.1,
+          "rating": 4.56,
+          "stock": 88,
+          "brand": "Dermive",
+          "category": "skincare",
+          "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/18/1.jpg",
+            "https://i.dummyjson.com/data/products/18/2.jpg",
+            "https://i.dummyjson.com/data/products/18/3.jpg",
+            "https://i.dummyjson.com/data/products/18/4.jpg",
+            "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 1,
+          "id": 16
+        },
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 1,
+          "id": 19
+        }
+      ],
+      "totalAmount": 3636,
+      "totalItems": 5,
+      "user": {
+        "email": "sainagabharatreddy@gmail.com",
+        "password": "Bsai12345@",
+        "addresses": [
+          {
+            "name": "sainagabharat bonthu",
+            "phone": "09573132481",
+            "email": "sainagabharatreddy@gmail.com",
+            "country": "India",
+            "address": "guntur",
+            "city": "guntur",
+            "state": "ap",
+            "pincode": "522501"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "sainagabharat bonthu",
+        "phone": "09573132481",
+        "email": "sainagabharatreddy@gmail.com",
+        "country": "India",
+        "address": "guntur",
+        "city": "guntur",
+        "state": "ap",
+        "pincode": "522501"
+      },
+      "status": "pending",
+      "id": 12
     }
   ]
 }
